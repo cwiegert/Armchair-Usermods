@@ -1,4 +1,4 @@
-# Dragon Rapido UHF Cowling Resessed for Crossbow Cutter
+# Dragon Rapido UHF Cowling Recessed for Crossbow Cutter
 ### By [WoodWorker]
 Simple modification to the Dragon Rapido UHF cowling to drop teh CrossBow cutter into the spacer on top of the toolhead.    Only set for the WW-BMG hole spacing and the XOL carraige.   
 
